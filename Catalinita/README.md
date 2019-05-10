@@ -4,7 +4,7 @@ Te presento a Catalinita: una niña muy lista y muy guapa a la que le encanta ju
 ## Catalinita y las tablas de multiplicar
 Catalinita se sabe las tablas de multiplicar de la 0 a la 20. Te las puede decir ella a ti, o te las puede preguntar ella a ti, a ver si tú también te las sabes.
 
-¡No dejes de ver el vídeo para verla en acción!
+¡No dejes de ver el vídeo para conocerla en acción!
 [![Catalinita](https://ibm.box.com/s/22dxiylv4oiu2yvhmx2drba4i0mlpzyt)](https://ibm.box.com/s/bkjhiwe67892ll9msfbsjmqybze726xg)
 
 ### Poner en marcha el programa _tablas\_de\_multiplicar.js_
